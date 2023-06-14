@@ -43,7 +43,7 @@ legend {
 .inputUser {
     background-color: none;
     border: none;
-    border-bottom: 1px solid #fff;
+    border: 3px solid dodgerblue;
     outline: none;
     font-size: 18px;
     width: 100%;
@@ -58,7 +58,7 @@ legend {
     color: #fff;
     font-size: 24px;
     border-radius: 4px;
-    box-shadow: 1px 1px 2px 2px#0f3987b1;
+    box-shadow: 1px 1px 2px 2px dodgerblue;
     padding: 5px ;
     border: none;
     margin: 10px;
